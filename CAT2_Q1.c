@@ -8,6 +8,7 @@ struct Employee {
 }Employee;
 
 int main() {
+     // Declare and initialize an Employee structure variable with specified data
   strcpy(Employee.name,"John Doe");
   strcpy(Employee.department,"Human Resources");
   strcpy(Employee.email,"john.doe@company.com");
